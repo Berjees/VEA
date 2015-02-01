@@ -14,4 +14,4 @@ Android application that is closed at the moment can be seen here: https://play.
 
 VEA is pronounced as NEA in English
 
-You can see sample API at vea.cloudapp.net
+You can see sample API at www.vea.cloudapp.net
